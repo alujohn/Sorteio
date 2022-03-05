@@ -1,1 +1,0 @@
-Sorteio simples da Mega-Sena.
